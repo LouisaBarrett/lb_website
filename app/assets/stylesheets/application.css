@@ -11,3 +11,34 @@
  *= require_self
  *= require_tree .
  */
+
+h1 {
+  font-size: 40pt;
+  letter-spacing: 15px;
+  font-family: Didot;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Arial Narrow', Helvetica, Arial, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+#title {
+  margin-top: 50px;
+}
+
+#subhead {
+  margin-top: -20px;
+}
+
+body {
+  background-color: ;
+}
+
+.fancy {
+  display:block;
+  width:270px;
+  margin: 0 auto;
+}
